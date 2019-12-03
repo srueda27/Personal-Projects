@@ -1,11 +1,12 @@
 HTML and CSS Basics
 -  https://css-tricks.com/snippets/css/complete-guide-grid/
+-  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 -  https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf  Easy/Short explanation what is and when to use Grid/Flex
 
 -  https://learn.shayhowe.com/html-css/positioning-content/   Although this work it's kinda deprecated (old way to do layouts), better to use Grid or Flexbox
 
 -  http://wtfhtmlcss.com/
--  https://www.webfx.com/blog/web-design/link-pseudo-classes/  
+-  https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/   Everything about CSS selectors
 -  Declaration order
         Related property declarations should be grouped together following the order:
 
