@@ -32,4 +32,9 @@ HTML and CSS Basics
     
 AUTO PREFIXER
     https://css-tricks.com/autoprefixer/
-
+linear-gradient(
+      #666,
+      #5e5e5e 50%,
+      #707070 50%,
+      #808080
+    );
